@@ -17,3 +17,9 @@ Next.js의 주요 기능은 다음과 같다.
 - 스타일링 : CSS모듈, Tailwind CSS, CSS-in-JS 를 포함한 선호하는 스타일링 방법 지원
 - 최적화 : 이미지, 글꼴, 스크립트를 최적화하여 애플리케이션의 Core Web Vitals와 사용자 경험을 개선
 - TypeScript : 더 나은 유형 검사와 더 효율적인 컴파일, 그리고 사용자 저으이 TypeScript플러그인과 유형 검사기를 통해 TypeScript에 대한 지원이 개선됨
+
+<br/><br/>
+
+## 앱 라우터 대 페이지 라우터
+
+Next.js에는 App Router와 Pages Router라는 두 가지 라우터가 있다. App Router는 React의 최신 기능(예 : Server Components 및 Streaming)을 사용할 수 있는 새로운 라우터이다. Page Router는 원래 Next.js 라우터로, 서버 렌더링 React 애플리케이션을 빌드할 수 있게 해주며 이전 Next.js 애플리케이션에서도 계속 지원된다.
